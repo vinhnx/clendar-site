@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Vinh Nguyen -- Owner -- @vinhnx | vinhnguyen2308 at gmail dot com
+
+# THANKS
+
+    HTML5 Boilerplate project - http://html5boilerplate.com/
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
+    Source Version Control - Git
