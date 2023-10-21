@@ -1,3 +1,5 @@
-Public site for Clendar, a minimal calendar app
+Public site for my app 
 
-https://www.clendar.info
+[Clendar, a minimal calendar app](http://github.com/vinhnx/clendar)
+
+📲 https://apps.apple.com/app/clendar-minimal-calendar/id1548102041  
